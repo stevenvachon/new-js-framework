@@ -9,5 +9,5 @@ Will use:
 * [page.js](https://github.com/visionmedia/page.js) or [crossroads.js](https://github.com/millermedeiros/crossroads.js) for routing
 
 May use:
-* [SystemJS](https://github.com/systemjs/systemjs) for loading modules
+* [StealJS](https://github.com/bitovi/steal) or [SystemJS](https://github.com/systemjs/systemjs) for loading modules
 * [Uberproto](https://github.com/daffl/uberproto) for creating classes
