@@ -2,7 +2,7 @@
 > No name yet
 
 Will use:
-* [React](https://github.com/facebook/react) (no JSX) or [Mithril](https://github.com/lhorie/mithril.js)
+* [React](https://github.com/facebook/react) (no JSX), [Mithril](https://github.com/lhorie/mithril.js) or [virtual-dom](https://github.com/Matt-Esch/virtual-dom/)
 * Handlebars templates in dev (compiled with [handlebars-react](https://github.com/stevenvachon/handlebars-react) for production)
 * Polymer's [observe-js](https://github.com/polymer/observe-js) for `Object.observe()`/dirty-checking
 
