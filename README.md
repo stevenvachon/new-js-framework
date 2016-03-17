@@ -3,8 +3,8 @@
 
 Will use:
 * [InfernoJS](https://github.com/trueadm/inferno) for Virtual DOM
-* [Handlebars](https://github.com/wycats/handlebars.js) and [handlebars-html-parser](https://github.com/stevenvachon/handlebars-html-parser) for templates
-* [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy) for view models
+* [handlebars-html-parser](https://github.com/stevenvachon/handlebars-html-parser) (and vdom compiler) for templates
+* [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy) ([polyfill?](https://github.com/GoogleChrome/proxy-polyfill)) for view models
 
 May use:
 * [Modella](https://github.com/modella/modella) or [Ento](https://github.com/rstacruz/ento) for models
