@@ -9,7 +9,7 @@ Will use:
 
 May use:
 * [Modella](https://github.com/modella/modella) or [Ento](https://github.com/rstacruz/ento) for models
-* [page.js](https://github.com/visionmedia/page.js) or [crossroads.js](https://github.com/millermedeiros/crossroads.js) for routing
+* [gibon](https://github.com/tunnckoCore/gibon), [page.js](https://github.com/visionmedia/page.js) or [crossroads.js](https://github.com/millermedeiros/crossroads.js) for routing
 * [StealJS](https://github.com/bitovi/steal) or [SystemJS](https://github.com/systemjs/systemjs) for module-loading
 
 Inspirations:
