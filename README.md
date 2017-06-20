@@ -1,6 +1,8 @@
 # new-js-framework
 > No name yet
 
+**Server First?** Meaning, configurable (template engine, routes, etc) from express.
+
 Will use:
 * [InfernoJS](https://github.com/trueadm/inferno) for Virtual DOM
 * [handlebars-html-parser](https://github.com/stevenvachon/handlebars-html-parser) (and vdom compiler) for templates
