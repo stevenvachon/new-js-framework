@@ -5,8 +5,7 @@
 
 Will use:
 * [InfernoJS](https://github.com/trueadm/inferno) for Virtual DOM
-* [handlebars-html-parser](https://github.com/stevenvachon/handlebars-html-parser) (and vdom compiler) for templates
-* `::event="code"` (attributes) for adding event listeners via markup
+* [handlebars-html-parser](https://github.com/stevenvachon/handlebars-html-parser) (and vdom compiler) or [HTMLx](https://github.com/htmlx-org/HTMLx) for templates
 * [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy) ([polyfill?](https://github.com/GoogleChrome/proxy-polyfill)) for view models
 * [Shadow DOM v1](http://w3c.github.io/webcomponents/spec/shadow/) and [Custom Elements v1](https://html.spec.whatwg.org/multipage/scripting.html#custom-elements)
 
